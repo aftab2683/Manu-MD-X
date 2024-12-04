@@ -1,13 +1,13 @@
 {
-  "name": "🧚‍♀️𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼💗",
-  "description": "Javascript WhatsApp bot made by Manul Official",
+  "name": "Aftab Khan",
+  "description": ".............",
   "logo": "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Manu-MD&HVlF3IrJ#I5LX2MEkC5em48UHRXHNKWsSDVyDIJFu77uraxjs1j4",
       "required": true
     },  
 
@@ -95,7 +95,7 @@
     
       "ANTI_DELETE": {
       "description": "Put true or false.",
-      "required": false
+      "required": true
     },
     
       "DELETEMSGSENDTO": {
